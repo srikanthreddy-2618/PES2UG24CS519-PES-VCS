@@ -1,8 +1,8 @@
 # Building PES-VCS — A Version Control System from Scratch
 # Submission Note
-SRN: PES2UG24AM059
-Report: report.pdf at repository root
-Commit history: minimum 5 commits completed for each implementation phase
+- **SRN:** `PES2UG24CS519`
+- **Report:** `report.pdf` at repository root
+- **Commit history:** minimum 5 commits completed for each implementation phase
 
 **Objective:** Build a local version control system that tracks file changes, stores snapshots efficiently, and supports commit history. Every component maps directly to operating system and filesystem concepts.
 
